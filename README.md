@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
+  <img align="left" alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple" />
 
 </details>
 
