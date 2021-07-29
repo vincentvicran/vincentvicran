@@ -4,19 +4,13 @@
 - 🥅 2021 Goals: Being full stack developer
 - ⚡ Fun fact: I am fond of occasional singing and full-time coding.
 
-### Connect with me:
-
---[<img align="left" alt="vincentvicran | YouTube" src="https://img.shields.io/youtube/channel/views/UC7E6HffqP3FQKNiacSAY4zg?logo=Youtube&style=for-the-badge" />][youtube]
-</br>
---[<img align="left" alt="vincentvicran | Twitter" src="https://img.shields.io/twitter/follow/vicran_vincent?color=1da1f2&logo=Twitter&style=for-the-badge" />][twitter]
-</br>
-
 ---
 
-[<img align="left" alt="vincentvicran | LinkedIn" style="color: white;" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
-[<img align="left" alt="vincentvicran | Instagram" style="color: white;" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-</br>
-
+### Connect with me:
+[<img align="left" alt="vincentvicran | Youtube" style="color: white;" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="vincentvicran | Twitter" style="color: white;" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="vincentvicran | LinkedIn" style="color: white;" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
+[<img align="left" alt="vincentvicran | Instagram" style="color: white;" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 <br />
 <br />
   
@@ -61,8 +55,13 @@
 
 <br />
 <br />
-  
 
+---
+
+[<img align="left" alt="vincentvicran | YouTube" src="https://img.shields.io/youtube/channel/views/UC7E6HffqP3FQKNiacSAY4zg?logo=Youtube&style=for-the-badge" />][youtube]
+</br>
+[<img align="left" alt="vincentvicran | Twitter" src="https://img.shields.io/twitter/follow/vicran_vincent?color=1da1f2&logo=Twitter&style=for-the-badge" />][twitter]
+</br>
 
 [twitter]: https://twitter.com/vicran_vincent
 [youtube]: https://www.youtube.com/channel/UC7E6HffqP3FQKNiacSAY4zg
