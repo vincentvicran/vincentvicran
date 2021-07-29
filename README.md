@@ -1,4 +1,6 @@
 ### Hi there, I'm Vikrant - aka [vincentvicran] 👋
+[<img alt="vincentvicran | Twitter" src="https://img.shields.io/twitter/follow/vicran_vincent?color=1da1f2&logo=Twitter&style=for-the-badge" />][twitter]
+</br>
 
 - 🌱 I’m currently learning ReactJS.
 - 🥅 2021 Goals: Being full stack developer.
@@ -52,17 +54,8 @@
 
 ### GitHub Stats:
 
-<img align="left" alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vincentvicran.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
+<img alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vincentvicran.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
 
-<br />
-<br />
-
----
-
-[<img alt="vincentvicran | YouTube" src="https://img.shields.io/youtube/channel/views/UC7E6HffqP3FQKNiacSAY4zg?logo=Youtube&style=for-the-badge" />][youtube]
-</br>
-[<img alt="vincentvicran | Twitter" src="https://img.shields.io/twitter/follow/vicran_vincent?color=1da1f2&logo=Twitter&style=for-the-badge" />][twitter]
-</br>
 
 [twitter]: https://twitter.com/vicran_vincent
 [youtube]: https://www.youtube.com/channel/UC7E6HffqP3FQKNiacSAY4zg
