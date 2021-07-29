@@ -1,7 +1,7 @@
 ### Hi there, I'm Vikrant - aka [vincentvicran] 👋
 
-- 🌱 I’m currently learning ReactJS
-- 🥅 2021 Goals: Being full stack developer
+- 🌱 I’m currently learning ReactJS.
+- 🥅 2021 Goals: Being full stack developer.
 - ⚡ Fun fact: I am fond of occasional singing and full-time coding.
 
 ---
