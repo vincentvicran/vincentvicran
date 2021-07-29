@@ -55,6 +55,7 @@
 ### GitHub Stats:
 
 <img alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vincentvicran.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
+<img alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vincentvicran.vercel.app/api/top-langs/?username=vincentvicran&show_icons=true&theme=algolia" />
 
 
 [twitter]: https://twitter.com/vicran_vincent
