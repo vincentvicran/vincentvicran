@@ -6,10 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vincentvicran | YouTube" style="color: white; background-color: gray;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="vincentvicran | Twitter" style="color: white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vincentvicran | LinkedIn" style="color: white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vincentvicran | Instagram" style="color: white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vincentvicran | YouTube" style="color: white; background-color: gray;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.0/icons/youtube.svg" />][youtube]
+[<img align="left" alt="vincentvicran | Twitter" style="color: white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vincentvicran | LinkedIn" style="color: white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vincentvicran | Instagram" style="color: white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.0/icons/instagram.svg" />][instagram]
 
 <br />
 
