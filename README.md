@@ -31,6 +31,11 @@
 
 ---
 
+### GitHub Stats:
+
+  <img align="left" alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
+
+---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -41,13 +46,6 @@
 4. 💪 Opened PR [#12](https://github.com/vincentvicran/taxSystem/pull/12) in [vincentvicran/taxSystem](https://github.com/vincentvicran/taxSystem)
 5. 🎉 Merged PR [#11](https://github.com/vincentvicran/taxSystem/pull/11) in [vincentvicran/taxSystem](https://github.com/vincentvicran/taxSystem)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="vincentvicran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
 
 </details>
 
