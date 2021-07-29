@@ -37,6 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/vincentvicran/bikeSpareParts/pull/1) in [vincentvicran/bikeSpareParts](https://github.com/vincentvicran/bikeSpareParts)
+2. 💪 Opened PR [#1](https://github.com/vincentvicran/bikeSpareParts/pull/1) in [vincentvicran/bikeSpareParts](https://github.com/vincentvicran/bikeSpareParts)
+3. 🎉 Merged PR [#12](https://github.com/vincentvicran/taxSystem/pull/12) in [vincentvicran/taxSystem](https://github.com/vincentvicran/taxSystem)
+4. 💪 Opened PR [#12](https://github.com/vincentvicran/taxSystem/pull/12) in [vincentvicran/taxSystem](https://github.com/vincentvicran/taxSystem)
+5. 🎉 Merged PR [#11](https://github.com/vincentvicran/taxSystem/pull/11) in [vincentvicran/taxSystem](https://github.com/vincentvicran/taxSystem)
 <!--END_SECTION:activity-->
 
 </details>
