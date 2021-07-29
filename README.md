@@ -12,6 +12,9 @@
 [<img align="left" alt="vincentvicran | Instagram" style="color: white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.0/icons/instagram.svg" />][instagram]
 
 <br />
+  <br />
+  
+---
 
 ### Languages and Tools:
 
@@ -37,7 +40,9 @@
 
   <br />
   <br />
+  
 ---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
