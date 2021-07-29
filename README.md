@@ -33,7 +33,7 @@
 
 ### GitHub Stats:
 
-  <img align="left" alt="vincentvicran's GitHub Stats" src="https://github-readme-stats-910tsmsct.vincentvicran.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
+  <img align="left" alt="vincentvicran's GitHub Stats" src="https://github-readme-stats-vincentvicran.vercel.app/api?username=vincentvicran&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
 
   <br />
   <br />
