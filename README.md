@@ -2,9 +2,9 @@
 [<img alt="vincentvicran | Twitter" src="https://img.shields.io/twitter/follow/vicran_vincent?color=1da1f2&logo=Twitter&style=for-the-badge" />][twitter]
 </br>
 
-- 🌱 Front End Developer.
-- 🥅 Specializes in ReactJS and NextJS.
-- ⚡ Prefers TypeScript over JavaScript.
+- 🌱 Full Stack Developer.
+- 🥅 Specializes in ReactJS and NextJS, NodeJS and PostgreSQL.
+- ⚡ Prefers TypeScript.
 
 ---
 
